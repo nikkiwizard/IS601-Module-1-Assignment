@@ -7,5 +7,8 @@ ls | This command is used in Linux and will give you a list of all files and dir
 Command #2 - Linux:
 cd | This command stands for 'change directory' and lets you switch between directories.
 
-Commnd #3 - Linux:
+Command #3 - Linux:
 mkdir | This command is used to create directories.
+
+Command #4 - Linux:
+touch | This command is used to create files.
