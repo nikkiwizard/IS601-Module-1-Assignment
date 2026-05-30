@@ -15,3 +15,6 @@ touch | This command is used to create files.
 
 Command #5 - Linux:
 rm | This command is used to remove files.
+
+Command #6 - Linux:
+nano | This command opens up an alternate text editor that's very different than vi!
