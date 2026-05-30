@@ -39,3 +39,6 @@ git branch | This command creates a new branch.
 
 Command #13 - Git:
 git push | This command uploads all local commits to the remote repository.
+
+Command #14 - Git:
+git pull | This command downloads and merges changes locally from the remote repository.
