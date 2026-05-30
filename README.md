@@ -24,3 +24,6 @@ pwd | This command stands for 'print working directory' and prints what director
 
 Command #8 - Linux:
 cat | This command lets you see the contents of a file right in the terminal without opening an editor.
+
+Command #9 - Git:
+git init | This command initializes a repository with version control
