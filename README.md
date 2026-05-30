@@ -36,3 +36,6 @@ git add | This command adds files to the staging area in preparation for commits
 
 Command #12 - Git:
 git branch | This command creates a new branch.
+
+Command #13 - Git:
+git push | This command uploads all local commits to the remote repository.
