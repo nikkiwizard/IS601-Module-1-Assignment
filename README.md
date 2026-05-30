@@ -42,3 +42,6 @@ git push | This command uploads all local commits to the remote repository.
 
 Command #14 - Git:
 git pull | This command downloads and merges changes locally from the remote repository.
+
+Command #15 - Git:
+git checkout | This command helps you switch to a different branch.
