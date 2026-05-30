@@ -27,3 +27,6 @@ cat | This command lets you see the contents of a file right in the terminal wit
 
 Command #9 - Git:
 git init | This command initializes a repository with version control
+
+Command #10 - Git:
+git clone | Downloads an existing repository using a URL.
