@@ -21,3 +21,6 @@ nano | This command opens up an alternate text editor that's very different than
 
 Command #7 - Linux:
 pwd | This command stands for 'print working directory' and prints what directory you currently find yourself in.
+
+Command #8 - Linux:
+cat | This command lets you see the contents of a file right in the terminal without opening an editor.
