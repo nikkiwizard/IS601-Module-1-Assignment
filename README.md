@@ -18,3 +18,6 @@ rm | This command is used to remove files.
 
 Command #6 - Linux:
 nano | This command opens up an alternate text editor that's very different than vi!
+
+Command #7 - Linux:
+pwd | This command stands for 'print working directory' and prints what directory you currently find yourself in.
