@@ -30,3 +30,6 @@ git init | This command initializes a repository with version control
 
 Command #10 - Git:
 git clone | Downloads an existing repository using a URL.
+
+Command #11 - Git:
+git add | This command adds files to the staging area in preparation for commits.
